@@ -8,18 +8,18 @@ export const facebookColor = '#3b5998';
 export const linkedInColor = '#0e76a8';
 
 export const FIREBASE_API = {
-  apiKey: 'AIzaSyC74w_JCigORyepa_esLkPt-B3HgtI_X3o',
-  authDomain: 'mantis-4040b.firebaseapp.com',
-  projectId: 'mantis-4040b',
-  storageBucket: 'mantis-4040b.appspot.com',
-  messagingSenderId: '1073498457348',
-  appId: '1:1073498457348:web:268210e18c8f2cab30fc51',
-  measurementId: 'G-7SP8EXFS48'
+  apiKey: '',
+  authDomain: ,
+  projectId: '',
+  storageBucket: '',
+  messagingSenderId: '',
+  appId: '',
+  measurementId: ''
 };
 
 export const AWS_API = {
-  poolId: 'us-east-1_AOfOTXLvD',
-  appClientId: '3eau2osduslvb7vks3vsh9t7b0'
+  poolId: '',
+  appClientId: ''
 };
 
 export const JWT_API = {
@@ -28,8 +28,8 @@ export const JWT_API = {
 };
 
 export const AUTH0_API = {
-  client_id: '7T4IlWis4DKHSbG8JAye4Ipk0rvXkH9V',
-  domain: 'dev-w0-vxep3.us.auth0.com'
+  client_id: '',
+  domain: ''
 };
 
 // ==============================|| THEME CONFIG  ||============================== //
